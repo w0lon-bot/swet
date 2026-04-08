@@ -12,6 +12,6 @@ git clone [https://github.com/YOUR_USERNAME/swet.git](https://github.com/YOUR_US
 cd swet
 pip3 install -r requirements.txt
 
-##التشغيل
-```bash
+التشغيل
+
 sudo python3 swet.py

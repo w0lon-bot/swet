@@ -12,13 +12,18 @@ git clone https://github.com/w0lon-bot/swet.git
 cd swet
 pip3 install -r requirements.txt
 
+```bash
+W
 التشغيل
 
 sudo python3 swet.py
 
 ```
-```bash
 
+```
+
+```bash
+I
 
 📝 المتطلبات
 Python 3.x

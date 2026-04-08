@@ -11,3 +11,7 @@ Python tool to discover connected devices and hostnames
 git clone [https://github.com/YOUR_USERNAME/swet.git](https://github.com/YOUR_USERNAME/swet.git)
 cd swet
 pip3 install -r requirements.txt
+
+##التشغيل
+```bash
+sudo python3 swet.py
